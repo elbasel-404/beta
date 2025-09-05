@@ -1,6 +1,6 @@
-# [α](https://github.com/elbasel42/alpha)
-# [β](https://github.com/elbasel42/beta)
-# [γ](https://github.com/elbasel42/gamma)
+# [α](https://github.com/elbasel-404/alpha)
+# [β](https://github.com/elbasel-404/beta)
+# [γ](https://github.com/elbasel-404/gamma)
 
 ## Build
 - https://github.com/typicode/husky
