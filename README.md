@@ -2,6 +2,12 @@
 # [β](https://github.com/elbasel-404/beta)
 # [γ](https://github.com/elbasel-404/gamma)
 
+## Learn
+- https://github.com/denoland/deno
+- https://github.com/microsoft/playwright
+- https://github.com/nestjs/nest
+- https://github.com/socketio/socket.io
+
 ## Operate
 - https://github.com/gnome-terminator/terminator
 - https://github.com/mpv-player/mpv
